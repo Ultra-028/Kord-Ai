@@ -4,13 +4,13 @@ global.settings = {
   OWNER_NUMBERS: "2349067339193", // your number with country code
   OWNER_NAME: 'Miracle', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'your_sessionid', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'hVepfGc4Ebs2', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
-  AUTO_READ_STATUS: true,
+  AUTO_READ_STATUS: false,
   PREFIX: [".", "/", "!"],
   GROUP_EVENTS: true,
   WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
@@ -18,7 +18,7 @@ global.settings = {
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
-  AUTO_LIKE_STATUS: true,
+  AUTO_LIKE_STATUS: false,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
